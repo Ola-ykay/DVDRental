@@ -3,7 +3,7 @@
 ### Overview  
 This project contains a collection of SQL queries designed to analyze a DVD rental database. The queries help retrieve insights such as payment transactions, actor details, customer locations, and film data.  
 
-## #Queries  
+### Queries  
 
 ### 1. Count of Payment Transactions Greater Than $5.00  
 ```sql
